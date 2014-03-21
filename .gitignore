@@ -1,0 +1,13 @@
+#ignore these files
+*.exe
+*.ilk
+*.pdb
+*.swp
+*.ncb
+*.suo
+
+#ignore these dirs
+KXLiveUpdate/Debug/
+KXLiveUpdate/Release/
+log/
+
